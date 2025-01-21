@@ -1,0 +1,10 @@
+pandas
+numpy
+plotly
+scikit-learn
+node2vec
+networkx
+matplotlib
+pyvis
+seaborn
+python-louvain
