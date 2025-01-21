@@ -35,7 +35,7 @@ Questa repository contiene un'analisi dei trasferimenti di giocatori di calcio u
 
 1. Clona il repository:
    ```bash
-   git clone <url_del_repository>
+   git clone https://github.com/Andreavisi1/Trasfermarkt-Social-Network-Analysis
    ```
    
 2. Installa le dipendenze necessarie:
