@@ -1,1 +1,4 @@
 .DS_Store
+Datasets/SNA/appearances.csv
+Datasets/SNA/game_lineups.csv
+Datasets/SNA/game_events.csv
